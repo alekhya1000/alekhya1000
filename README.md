@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alekhya1000
-- 👀 I’m interested in working on hands=on projects like Industrial Automotive related projects
+- 👀 I’m interested in working on hands-on projects like Industrial Automotive related projects
 - 🌱 I’m currently learning Automation techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
